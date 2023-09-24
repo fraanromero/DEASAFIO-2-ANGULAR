@@ -1,0 +1,25 @@
+.header {
+    width: 100%;
+    background-color: midnightblue;
+    height: 85px;
+    text-align: left;
+}
+
+
+.content {
+    width: 100%;
+    background-color: slategray;
+    height: 550px;
+}
+
+.footer {
+    width: 100%;
+    background-color: black;
+    text-align: center;
+}
+
+.table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
